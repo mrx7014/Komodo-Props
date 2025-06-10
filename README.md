@@ -1,4 +1,4 @@
-# Pixel 9 Pro XL Props
+# Komodo Props
 
 <div align="center">
   <img src="Komodo-Props_Banner.jpg" alt="" />
